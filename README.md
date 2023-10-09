@@ -12,6 +12,8 @@ AI 학습을 위한 프롬프트를 생성할 수 있는 사이트입니다.
 Google OAuth 로그인을 한 이후 새로운 프롬프트를 생성할 수 있으며 개인 페이지에서 프롬프트 수정 및 삭제가 가능합니다.
 
 ## :gear: Built With 개발 환경
-- next.js
-- react
-- vercel
+- Next.js
+- React
+- Google Oauth API
+- Mongo DB
+- Vercel
