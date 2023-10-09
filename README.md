@@ -14,6 +14,7 @@ Google OAuth 로그인을 한 이후 새로운 프롬프트를 생성할 수 있
 ## :gear: Built With 개발 환경
 - Next.js
 - React
+- Tailwind CSS
 - Google Oauth API
 - Mongo DB
 - Vercel
