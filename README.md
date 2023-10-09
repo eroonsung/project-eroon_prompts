@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# :purple_heart: Eroon Prompts
+:arrow_right: <a href="https://project-eroonprompts.vercel.app/" target="_blank">Eroon Prompts</a> 
+![image](https://github.com/eroonsung/project-eroonprompts/assets/77269204/6f156daf-9854-4d70-9d6e-993653a378fc)
 
-## Getting Started
+## :computer: Description 설명
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).  
+This web site is for Discover & Share Prompts.  
+You can create, update and delete the new propmpts with tag after Google OAuth sign in.
 
-First, run the development server:
+이 프로젝트는 [Next.js](https://nextjs.org/) 를 사용하였습니다.  
+AI 학습을 위한 프롬프트를 생성할 수 있는 사이트입니다.  
+Google OAuth 로그인을 한 이후 새로운 프롬프트를 생성할 수 있으며 개인 페이지에서 프롬프트 수정 및 삭제가 가능합니다.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## :gear: Built With 개발 환경
+- next.js
+- react
+- vercel
